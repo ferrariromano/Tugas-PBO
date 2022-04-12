@@ -1,1 +1,1 @@
-inheritant
+TUGAS PBO OOP
